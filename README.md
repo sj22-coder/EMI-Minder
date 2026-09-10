@@ -41,6 +41,7 @@ EMI-Minder/
 │   └── Resources/
 │
 └── README.md
+
 🧮 EMI Calculation
 
 EMI is calculated using the standard formula:
@@ -52,7 +53,9 @@ Where:
 P = Principal loan amount
 R = Monthly interest rate
 N = Loan tenure in months
+
 🚀 Getting Started
+
 Prerequisites
 
 Make sure you have the following installed:
@@ -60,16 +63,17 @@ Make sure you have the following installed:
 Microsoft Visual Studio
 .NET Framework / .NET SDK compatible with the project
 SQL Server (if required by the configured database)
-Installation
-Clone the repository:
-git clone https://github.com/sj22-coder/EMI-Minder.git
-Open emi.sln in Microsoft Visual Studio.
-Restore the required dependencies.
-Configure the database connection if required.
-Build the solution.
-Run the application.
-🎯 Project Objectives
 
+Installation
+1. Clone the repository:
+git clone https://github.com/sj22-coder/EMI-Minder.git
+2. Open emi.sln in Microsoft Visual Studio.
+3. Restore the required dependencies.
+4. Configure the database connection if required.
+5. Build the solution.
+6. Run the application.
+
+🎯 Project Objectives
 The main objective of EMI Minder is to provide a simple desktop-based solution for EMI calculation and basic loan management while demonstrating practical C# application development concepts.
 
 The project demonstrates:
@@ -81,6 +85,7 @@ Database connectivity
 SQL operations
 Input validation
 Financial calculations
+
 🔮 Future Enhancements
 📊 Graphical visualization of loan repayment
 📅 Detailed monthly repayment schedules
@@ -88,8 +93,8 @@ Financial calculations
 📄 Export loan details and repayment schedules
 🔔 EMI payment reminders
 📱 Mobile/web version of the application
-👩‍💻 Author
 
+👩‍💻 Author
 Simran Joshi
 
 Diploma in Computer Engineering
